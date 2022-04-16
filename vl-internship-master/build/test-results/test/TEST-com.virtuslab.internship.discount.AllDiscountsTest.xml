@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.virtuslab.internship.discount.AllDiscountsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-16T14:16:49" hostname="DESKTOP-L05VHHM" time="0.076">
+  <properties/>
+  <testcase name="ShouldApplyBothDiscounts()" classname="com.virtuslab.internship.discount.AllDiscountsTest" time="0.067"/>
+  <testcase name="ShouldApply10percentDiscount()" classname="com.virtuslab.internship.discount.AllDiscountsTest" time="0.003"/>
+  <testcase name="ShouldApply15PercentDiscount()" classname="com.virtuslab.internship.discount.AllDiscountsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
